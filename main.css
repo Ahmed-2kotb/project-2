@@ -1,0 +1,57 @@
+body{
+height: auto;
+}
+.carousel-item {
+    height: 100vh; /* Full height for the carousel items */
+}
+.carousel-item img {
+    height: 100%; /* Make images take the full height of the carousel item */
+    object-fit: cover; /* Cover the container without distorting the image */
+}
+html, body {   
+overflow-x: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
